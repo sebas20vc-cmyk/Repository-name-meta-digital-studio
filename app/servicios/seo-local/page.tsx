@@ -55,7 +55,7 @@ export default function SeoLocalPage() {
     },
   ];
 
-  const process = [
+  const steps = [
     {
       number: "01",
       title: "Diagnóstico",
@@ -530,7 +530,7 @@ export default function SeoLocalPage() {
 
             <div className="absolute left-[16%] right-[16%] top-[38px] hidden h-px bg-gradient-to-r from-transparent via-white/15 to-transparent md:block" />
 
-            {process.map((item) => (
+            {steps.map((item) => (
               <div
                 key={item.number}
                 className="relative rounded-[28px] border border-white/[0.08] bg-[#071222]/80 p-8 backdrop-blur-xl"
