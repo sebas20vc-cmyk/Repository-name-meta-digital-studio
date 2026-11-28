@@ -22,15 +22,15 @@ export const metadata: Metadata = {
   },
 
   description:
-    "Meta Digital Studio impulsa negocios con SEO Local, DiseÃ±o Web, ConsultorÃ­a de Marketing y Soluciones con IA. Estrategia & crecimiento digital.",
+    "Meta Digital Studio impulsa negocios con SEO Local, Diseño Web, Consultoría de Marketing y Soluciones con IA. Estrategia & crecimiento digital.",
 
   keywords: [
     "Meta Digital Studio",
     "SEO Local",
     "SEO Local Villavicencio",
     "Google Business Profile",
-    "DiseÃ±o Web",
-    "ConsultorÃ­a de Marketing",
+    "Diseño Web",
+    "Consultoría de Marketing",
     "Soluciones con IA",
     "Marketing Digital",
     "Villavicencio",
@@ -61,14 +61,14 @@ export const metadata: Metadata = {
     siteName: "Meta Digital Studio",
     title: "Meta Digital Studio | Estrategia & crecimiento digital",
     description:
-      "SEO Local, DiseÃ±o Web, ConsultorÃ­a de Marketing y Soluciones con IA para impulsar el crecimiento de tu negocio.",
+      "SEO Local, Diseño Web, Consultoría de Marketing y Soluciones con IA para impulsar el crecimiento de tu negocio.",
   },
 
   twitter: {
     card: "summary_large_image",
     title: "Meta Digital Studio | Estrategia & crecimiento digital",
     description:
-      "SEO Local, DiseÃ±o Web, ConsultorÃ­a de Marketing y Soluciones con IA.",
+      "SEO Local, Diseño Web, Consultoría de Marketing y Soluciones con IA.",
   },
 
   icons: {
